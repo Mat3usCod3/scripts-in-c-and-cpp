@@ -1,4 +1,4 @@
-// Calculando o índice de massa coporal;
+// Calculando o índice de massa corporal;
 
 #include <math.h>
 #include <stdio.h>
